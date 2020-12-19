@@ -53,7 +53,7 @@ Semua tahapan dibawah ini hanya berlaku jika belum pernah install sama sekali. J
 
 ## Setup URL
 *tidak wajib dijalankan, hanya untuk mempermudah saja*
-
+*Untuk sementara wajib*
 1.	Modifikasi* file C:\Windows\System32\drivers\etc\hosts
 	- Tambahkan `127.0.0.1 e-warehouse` pada file hosts
 	- modifikasi harus dilakukan dengan text editor yang dirun sebagai admin
