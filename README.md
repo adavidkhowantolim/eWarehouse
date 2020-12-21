@@ -75,7 +75,7 @@ Semua tahapan dibawah ini hanya berlaku jika belum pernah install sama sekali. J
 
 ## Route list:
 > **Deskripsi yang bagus juga dapat dilihat pada Dokumen B300**
-
+*Parameter API disini masih cukup tidak lengkap, Dokumentasi perlu dibagusin lebih jauh lagi*
 *http://e-warehouse dapat diganti dengan http://localhost/ewarehouse/public/ atau http://ipaddress-laptop/ewarehouse/public/*
 
 1.	http://e-warehouse
