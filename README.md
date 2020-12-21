@@ -74,6 +74,8 @@ Semua tahapan dibawah ini hanya berlaku jika belum pernah install sama sekali. J
 4. Jika ingin membuka dari device lain, buka http://ipaddress-laptop/ewarehouse/public/
 
 ## Route list:
+> **Deskripsi yang bagus juga dapat dilihat pada Dokumen B300**
+
 *http://e-warehouse dapat diganti dengan http://localhost/ewarehouse/public/ atau http://ipaddress-laptop/ewarehouse/public/*
 
 1.	http://e-warehouse
